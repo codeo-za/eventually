@@ -1,6 +1,6 @@
 {
   "name": "@codeo/eventually",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Retry async operations with back-off, handle errors by halting, suppressing or failing",
   "main": "index.js",
   "scripts": {
