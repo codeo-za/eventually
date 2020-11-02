@@ -22,6 +22,10 @@
     "name": "Davyd McColl",
     "email": "davydm@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://git@github.com/codeo-za/eventually"
+  },
   "license": "BSD-3-Clause",
   "files": [
     "dist/**/*",
